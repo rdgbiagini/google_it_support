@@ -1,1 +1,35 @@
 Final Project for the course of Networking Administration and IT Support
+
+Learning Goals:
+Use system administration concepts learned throughout the course to provide technical improvements to current processes.
+Implement solutions based on an organization's constraints, such as financial resources, user count, etc.
+
+Overview: You will take what you learned in the System Administration and IT Infrastructure Services course and apply that knowledge to real-world scenarios.
+
+Task: For this writing project, you will be presented with three different company scenarios. You will manage the IT infrastructure systems for each company. For each scenario, propose process improvements based on the company's needs and current constraints. There is no right or wrong answer to your inquiry, but your responses must explain the problem, the improvement, and the underlying logic. Write a 200 to 400-word process analysis for each company presented to you.
+
+Resposta: 
+
+O RH esta realizando funçoes que, por essencia, nao sao e nao deveriam ser suas, para isso, uma vez que eu estou sendo contratado como administrador de rede, eu faria algumas implementaçoes, a começar pela absorçao destas responsabilidades: 
+
+1 - Compra / manutençao de computadores novos do RH ao administrador de rede; 
+
+2 - Criaçao, gestao e manutençao de usuarios, por exemplo, utilizando o Active Directory; 
+
+3 - Produçao, validaçao, teste e manutençao de politicas de senhas, segurança, backups e redes;
+
+4 - Estoque e material de tecnologia, catalogo de tudo quanto é hardware e organizaçao de posse; 
+
+5 -  Organizaçao de todos os serviços que estao sendo utilizados em nuvem. 
+
+A W.D. Widgets é uma empresa que vende widgets, para a qual eu estou sendo contratado, como unico responsavel de TI em uma estrutura de 80 a 100 funcionarios, cada um utilizando ao menos 2 dispositivos (um computador e um celular  pessoal / empresarial) para a realizaçao dos seus dias, estimando assim na gestao de 160 a 200 hardwares para as rotinas diarias. 
+
+Para o começo do trabalho, ordenar todas as demandas e organizar tudo em tickets, por ordem de chegada e de gravidade, seria de extrema importancia, para que eu pudesse fazer a organizaçao desse setor. 
+A criaçao de uma imagem geral, considerando pelo menos o setor de trabalho, como exemplo uma para vendedores, uma para administrativo, uma para RH, seria de extrema importancia para que a gente possa fazer a padronizaçao dos hardwares e de seus usuarios, considerando sempre, obviamente seus usos e demandas particulares. A padronizaçao do hardware também é de extrema importancia. 
+Posteriormente, a implementaçao e gestao dos serviços que sao possivelmente realizados atraves de sistemas de nuvens (clouds) sao extremamente uteis e facilitadores da nossa vida em se pensando em uma rotina de administraçao de tecnologia em uma empresa. 
+Em um outro momento a geraçao de politicas internas se mostra extremamente necessaria. 
+Traria para essa empresa, como prioridade maior ainda, a organizaçao, gestao e manutençao de um banco de dados de forma a visar a proteçao e a segurança dos dados dos seus clientes, a criaçao ou compra de firewall adequado para a rede interna / externa e a gestao, mais uma vez nesse caso, de sistemas de cloud. 
+Tudo isso gera a previsibilidade e a escalabilidade que a empresa esta precisando desenvolver nesse caso. 
+
+
+
